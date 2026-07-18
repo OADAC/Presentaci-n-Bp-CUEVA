@@ -1,24 +1,22 @@
 
-# CUEVA BP V13 - soporte interactivo
+# CUEVA BP 26/30 - GitHub Pages
 
-Paquete estatico listo para subir a un repositorio de GitHub.
+Carpeta preparada para subir al repositorio.
 
-## Contenido
+## Que subir
 
-- `index.html`: documento navegable principal.
-- `assets/img/`: graficas, laminas visuales y logo.
-- `assets/docs/`: documentacion de soporte incluida en la biblioteca del HTML.
-- `.nojekyll`: evita el procesamiento automatico de GitHub Pages.
+Subir el contenido completo de esta carpeta al root del repo:
+- `index.html`
+- `CUEVA_BP_SOPORTE_INTERACTIVO_DEFINITIVO.html`
+- `assets/`
+- `gpt_trabajo_defensa_bp/`
 
-## Uso recomendado
+## GPT
 
-1. Sube todo el contenido de esta carpeta a la raiz del repositorio.
-2. Si quieres publicarlo con GitHub Pages, activa Pages desde `Settings > Pages`.
-3. Selecciona la rama principal y la carpeta raiz.
-4. Abre la URL publicada y comprueba que cargan imagenes y documentos.
+El boton del GPT ya esta integrado en el HTML y apunta a:
 
-## Version
+https://chatgpt.com/g/g-6a5b8e803d8081918613e52d83d6cc33-cueva-bp-26-30-defensa-modelo-de-negocio
 
-- Documento interactivo: V13
-- Fecha: 2026-07-15
-- Entrada principal: `index.html`
+## Seguridad
+
+Esta carpeta NO incluye las instrucciones privadas del GPT. La carpeta interna completa permanece fuera de `github`.
